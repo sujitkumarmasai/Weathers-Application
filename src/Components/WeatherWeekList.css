@@ -1,0 +1,38 @@
+.main_weeklist{
+    display: flex;
+    width: 100%;
+    margin: 20px auto;
+    overflow-x: scroll;
+    text-align: center;
+    
+}
+.main_weeklist > div{
+    min-width: 65px;
+    margin-right: 10px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: rgb(255, 253, 247);
+    margin-bottom: 5px;
+}
+.ListImg{
+    width: 30%;
+    margin-top:12px;
+    margin-bottom: -8px;
+    
+    
+}
+p{
+    font-weight: 600;
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: -5px;
+}
+
+.main_weeklist>.list {
+    border: 3px solid rgb(0, 166, 250);
+  }
+
+/* 
+.listMinMax{
+    display: flex;
+} */

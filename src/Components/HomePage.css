@@ -1,0 +1,17 @@
+.home_top{
+    padding:10px 5px 10px 5px;
+    max-width: 720px;
+    margin: 0 auto;
+    min-height: 50vh;
+    /* font-family: 'Roboto', sans-serif !important; */
+  	box-sizing: border-box;
+    /* border: 1px solid #000; */
+}
+.card{
+    background-color: #fff;
+    box-shadow: 4px 3px 20px #3535358c;
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding: 20px;
+    /* width: 720px; */
+}

@@ -1,0 +1,33 @@
+/* .weather_curve{
+    width:90%;
+} */
+
+.PressHum{
+    display: flex;
+    margin-bottom: 3rem;
+    text-align: left;
+    color: #2c3e50;
+}
+.PressHum > div{
+    background: #f3fbff;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0.75rem;
+    margin-right: 0.5rem;
+
+}
+.Bold{
+    font-weight: 700;
+}
+
+.SunTime{
+    color: #2c3e50;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 10px 0px 10px;
+}
+.SunTime > div {
+    display: flex;
+    flex-direction: column;
+}
